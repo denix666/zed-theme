@@ -43,7 +43,7 @@
         "toolbar.background": "#282c34",
         "tab_bar.background": "#22252a",
         "tab.inactive_background": "#25272d",
-        "tab.active_background": "#25272d",
+        "tab.active_background": "#353535",
         "search.match_background": "#C74F00",
         "panel.background": null,
         "panel.focused_border": null,
