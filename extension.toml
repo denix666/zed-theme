@@ -1,5 +1,5 @@
-id = "denix-zed-theme"
-name = "Denix zed-theme"
+id = "denix"
+name = "Denix Theme"
 version = "0.0.2"
 schema_version = 1
 authors = ["Denis Salmanovich <denis.salmanovich@gmail.com>"]
