@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "Denix zed-theme",
+  "name": "Denix Theme",
   "author": "Denis Salmanovich <denis.salmanovich@gmail.com>",
   "themes": [
     {
-      "name": "Denix zed-theme",
+      "name": "Denix Theme",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -135,8 +135,8 @@
         "unreachable": null,
         "unreachable.background": null,
         "unreachable.border": null,
-        "warning": "#da7a43",
-        "warning.background": "#da7a433b",
+        "warning": "#E1920A",
+        "warning.background": "#693816",
         "warning.border": null,
         "players": [
           {
@@ -157,12 +157,12 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#abb0bf",
+            "color": "#797979",
             "font_style": null,
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#abb0bf",
+            "color": "#797979",
             "font_style": null,
             "font_weight": null
           },
