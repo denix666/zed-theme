@@ -69,32 +69,32 @@
         "editor.document_highlight.write_background": null,
         "terminal.background": null,
         "terminal.foreground": null,
-        "terminal.bright_foreground": null,
-        "terminal.dim_foreground": null,
+        "terminal.bright_foreground": "#4c4f69",
+        "terminal.dim_foreground": "#8c8fa1",
         "terminal.ansi.black": "#42444d",
         "terminal.ansi.bright_black": "#8f9aae",
-        "terminal.ansi.dim_black": null,
+        "terminal.ansi.dim_black": "#bcc0cc",
         "terminal.ansi.red": "#fc2e51",
         "terminal.ansi.bright_red": "#ff637f",
-        "terminal.ansi.dim_red": null,
+        "terminal.ansi.dim_red": "#d20f39",
         "terminal.ansi.green": "#25a45c",
         "terminal.ansi.bright_green": "#3fc56a",
-        "terminal.ansi.dim_green": null,
+        "terminal.ansi.dim_green": "#40a02b",
         "terminal.ansi.yellow": "#ff9369",
         "terminal.ansi.bright_yellow": "#f9c858",
-        "terminal.ansi.dim_yellow": null,
+        "terminal.ansi.dim_yellow": "#df8e1d",
         "terminal.ansi.blue": "#3375fe",
         "terminal.ansi.bright_blue": "#10b0fe",
-        "terminal.ansi.dim_blue": null,
+        "terminal.ansi.dim_blue": "#1e66f5",
         "terminal.ansi.magenta": "#9f7efe",
         "terminal.ansi.bright_magenta": "#ff78f8",
-        "terminal.ansi.dim_magenta": null,
+        "terminal.ansi.dim_magenta": "#ea76cb",
         "terminal.ansi.cyan": "#4483aa",
         "terminal.ansi.bright_cyan": "#5fb9bc",
-        "terminal.ansi.dim_cyan": null,
+        "terminal.ansi.dim_cyan": "#179299",
         "terminal.ansi.white": "#cdd3e0",
         "terminal.ansi.bright_white": "#ffffff",
-        "terminal.ansi.dim_white": null,
+        "terminal.ansi.dim_white": "#5c5f77",
         "link_text.hover": "#3691ff",
         "conflict": "#fc4a6d",
         "conflict.background": null,
@@ -141,8 +141,18 @@
         "players": [
           {
             "cursor": "#ecc353",
-            "background": "#264B75",
-            "selection": "#264B75"
+            "background": "#225B6D",
+            "selection": "#225B6D70"
+          },
+          {
+            "cursor": "#d08770",
+            "background": "#d08770",
+            "selection": "#d087703d"
+          },
+          {
+            "cursor": "#a3be8c",
+            "background": "#a3be8c",
+            "selection": "#a3be8c3d"
           }
         ],
         "syntax": {
