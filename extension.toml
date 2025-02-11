@@ -1,6 +1,6 @@
 id = "denix"
 name = "Denix Theme"
-version = "0.0.8"
+version = "0.0.9"
 schema_version = 1
 authors = ["Denis Salmanovich <denis.salmanovich@gmail.com>"]
 description = "🐧 DeniX theme for Zed editor"
